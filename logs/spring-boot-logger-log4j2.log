@@ -1,0 +1,21 @@
+2020-08-18 21:03:49,234 INFO o.s.b.StartupInfoLogger [main] Starting SpAngApplication on S4Pedagog with PID 5924 (C:\Users\NEWPC3\IdeaProjects\sp_ang\target\classes started by NEWPC3 in C:\Users\NEWPC3\IdeaProjects\sp_ang)
+2020-08-18 21:03:49,247 DEBUG o.s.b.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-08-18 21:03:49,248 INFO o.s.b.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-08-18 21:03:50,128 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-08-18 21:03:50,147 INFO o.a.j.l.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-08-18 21:03:50,147 INFO o.a.j.l.DirectJDKLog [main] Starting service [Tomcat]
+2020-08-18 21:03:50,148 INFO o.a.j.l.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-08-18 21:03:50,237 INFO o.a.j.l.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-08-18 21:03:50,237 INFO o.s.b.w.s.c.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 839 ms
+2020-08-18 21:03:50,423 INFO o.s.s.c.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-08-18 21:03:50,607 INFO o.a.j.l.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-08-18 21:03:50,627 INFO o.s.b.w.e.t.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-08-18 21:03:50,637 INFO o.s.b.StartupInfoLogger [main] Started SpAngApplication in 1.907 seconds (JVM running for 3.565)
+2020-08-18 21:04:02,709 INFO o.a.j.l.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-08-18 21:04:02,709 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-08-18 21:04:02,716 INFO o.s.w.s.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 7 ms
+2020-08-18 21:04:02,735 TRACE p.e.s.MyRestController [http-nio-8080-exec-1] A TRACE Message
+2020-08-18 21:04:02,735 DEBUG p.e.s.MyRestController [http-nio-8080-exec-1] A DEBUG Message
+2020-08-18 21:04:02,735 INFO p.e.s.MyRestController [http-nio-8080-exec-1] An INFO Message
+2020-08-18 21:04:02,735 WARN p.e.s.MyRestController [http-nio-8080-exec-1] A WARN Message
+2020-08-18 21:04:02,735 ERROR p.e.s.MyRestController [http-nio-8080-exec-1] An ERROR Message
