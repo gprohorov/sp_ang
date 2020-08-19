@@ -37,3 +37,5 @@ logger.rolling.appenderRef.rolling.ref = RollingFile
 
 
 https://howtodoinjava.com/log4j2/log4j2-properties-example/
+
+https://dzone.com/articles/log4j-2-configuration-using-properties-file
